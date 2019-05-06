@@ -1,9 +1,8 @@
-# Yes Deployment MkDocs
+# Yes The Docs
 
-**thank you for your patience while search and navigation load** :D
+This is a test of Just-The-Docs
 
-This is for testing purposes, and practice working with MkDocs.
-
+I wasn't able to install it by following regular instructions.. but I forked the repo, copied the whole thing to this repo (minus .git files and the like.)
 ---
 
 Because of the way MkDocs works, it's best to use the `master` branch for your markdown and configuration, and publish to `gh-pages`.
